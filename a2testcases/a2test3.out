@@ -1,0 +1,9 @@
+Enter the first sequence: Enter the second sequence: 
+# the first sequence (length = 25) is: 
+3110283025318292818318143
+# an LTS (length = 10) for the first sequence is: 
+3128331283
+# the second sequence (length = 26) is: 
+13112301728031631251841324
+# an LPS (length = 13) for the second sequence is: 
+3112136312113
